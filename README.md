@@ -1,2 +1,0 @@
-# eduvium-api
-Backend repository
